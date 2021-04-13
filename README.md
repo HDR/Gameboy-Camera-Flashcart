@@ -9,7 +9,6 @@ Coming soon?
 | C2-C15 |  | 100nF 0603 Capacitor |
 | D1 | Harvest from original cartridge | Diode |
 | J1 | Harvest or buy a JST ZH1.5MM 9 Pin Connector | Camera Connector |
-| L1,L2 | Harvest from original cartridge | SMD Ferrite Array 4x0603 |
 | R1 |  | 1K Ω 0603 Resistor |
 | SW1 | K3-1296S-E1 | SPDT Switch (Optional) |
 | U1 | Harvest from original cartridge | MAC-GBD |
