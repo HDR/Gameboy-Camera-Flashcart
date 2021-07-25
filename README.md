@@ -1,4 +1,4 @@
-Coming soon?
+Project is on hold at the moment due to fram compatability issues.
 
 
 **BOM:**
