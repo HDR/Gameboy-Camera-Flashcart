@@ -1,5 +1,6 @@
 On hold as i can't get the FRAM fully working, the FRAM causes the image from the camera to only display 2/4 colors.
 
+** Make sure you read the License! **
 
 **BOM:**
 
