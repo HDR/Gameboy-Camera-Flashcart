@@ -1,4 +1,4 @@
-Project is on hold at the moment due to fram compatability issues.
+On hold as i can't get the FRAM fully working, the FRAM causes the image from the camera to only display 2/4 colors.
 
 
 **BOM:**
