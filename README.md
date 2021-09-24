@@ -2,6 +2,12 @@ Boards will only be available from PCBWay, Board files/Gerbers will not be provi
 
 **Make sure you read the License!**
 
+
+
+**Flashing:**
+
+Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/projects/gbxcart-rw/), flashing both 1MB sections requires [this custom software](GBxCart_RW_GB_Camera_2x1MB_Flasher.zip), which is a modified version of InsideGadget's 2x2MB MBC3 software.
+
 **BOM:**
 
 | Reference | Part Number | Description |
