@@ -1,4 +1,4 @@
-Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make.
+Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make, i don't see this changing anytime soon.
 
 **Make sure you read the License!**
 
