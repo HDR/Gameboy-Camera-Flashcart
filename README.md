@@ -1,6 +1,9 @@
 ## Make sure you read the License (Attribution-NonCommercial-ShareAlike 4.0 International)
 
 
+[Purchase](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_Flashcart___2x1MB___FRAM__.html)
+
+
 Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make, i don't see this changing anytime soon.
 
 **Make sure you read the License!**
