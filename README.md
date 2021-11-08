@@ -32,6 +32,7 @@ Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/pro
 [Interactive BOM](https://martinrefseth.com/ibom/Game%20Boy%20Camera%20Flashcart)
 
 
+Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
 
 
 
