@@ -20,10 +20,10 @@ Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/pro
 | C5, C6, C7, C8, C9, C10, C11 | [TCC0603X7R104J500CT](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0603X7R104J500CT_C282518.html) | 100nF 0603 Capacitor |
 | C14, C15 | [CC0603JRNPO9BN220](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRNPO9BN220_C105620.html) | 22pF 0603 Capacitor |
 | R1 | [RC0603JR-071KL](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603JR-071KL_C14676.html) | 1K Ω 0603 Resistor |
-| D1 | Diode | Harvest from original cartridge |
+| D1 | Diode | Harvest D2 from original cartridge |
 | J1 | [B9B-ZR-SM4-TF](https://www.aliexpress.com/item/32920487056.html) | Camera Connector, Harvest or buy (JST ZH1.5MM 9 Pin) |
 | SW1 | [K3-1296S-E1](https://www.lcsc.com/product-detail/Slide-Switches_Korean-Hroparts-Elec-K3-1296S-E1_C128955.html)| SPDT Switch (For 2x1MB Rom Switching) |
-| U1 | MAC-GBD | Harvest from original cartridge |
+| U1 | MAC-GBD | Harvest U1 from original cartridge |
 | U2 | [AM29F016](https://www.aliexpress.com/item/33043533022.html) | 2MB Flash |
 | U3 | [FM28V100](https://www.aliexpress.com/item/4001322883101.html) | 1MB FRAM |
 | U4 | [TPRT9013-33G](https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-LDO_TECH-PUBLIC-TPRT9013-33GB_C587158.html) | 3.3V Voltage Regulator |
