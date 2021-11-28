@@ -1,7 +1,7 @@
 ## Make sure you read the License (Attribution-NonCommercial-ShareAlike 4.0 International)
 
 
-[Purchase](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_Flashcart___2x1MB___FRAM__.html)
+[Purchase](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_Flashcart___2x1MB___FRAM__.html) on PCBWAy
 
 If you want to support me for free (and get 5 USD in new user credit) you can use my PCBWay [Referral link](https://www.pcbway.com/setinvite.aspx?inviteid=388393) when signing up on PCBWay
 
