@@ -1,12 +1,12 @@
 ## Make sure you read the License (Attribution-NonCommercial-ShareAlike 4.0 International)
 
-
-[Purchase](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_Flashcart___2x1MB___FRAM__.html) on PCBWAy
+[![Purchase on PCBWay](/assets/purchase-on-pcbway.png)](https://www.pcbway.com/project/shareproject/Game_Boy_Camera_Flashcart___2x1MB___FRAM__.html)
 
 If you want to support me for free (and get 5 USD in new user credit) you can use my PCBWay [Referral link](https://www.pcbway.com/setinvite.aspx?inviteid=388393) when signing up on PCBWay
 
 ![](https://i.imgur.com/Iy5TtAD.png)
 
+[![Purchase on PCBWay](/assets/referral-link.png)](https://www.pcbway.com/setinvite.aspx?inviteid=388393)
 
 Boards will only be available from PCBWay, Kicad Files and or Gerbers will not be provided, unfortunately there has been an increase in people abusing the license and the projects i publish for the community to make, i don't see this changing anytime soon.
 
@@ -43,4 +43,4 @@ Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](htt
 
 
 
-![](Front.png)
+![](/assets/Front.png)
