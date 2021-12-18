@@ -16,7 +16,7 @@ Boards will only be available from PCBWay, Kicad Files and or Gerbers will not b
 
 **Flashing:**
 
-Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/projects/gbxcart-rw/), flashing both 1MB sections requires [this custom software](GBxCart_RW_GB_Camera_2x1MB_Flasher.zip), which is a modified version of InsideGadget's 2x2MB MBC3 software.
+Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/projects/gbxcart-rw/), flashing both 1MB sections requires [this custom software](GBxCart_RW_GB_Camera_2x1MB_Flasher.zip), which is a modified version of InsideGadget's 2x2MB MBC3 software, or FlashGBX v3.2 or higher.
 
 **BOM:**
 
