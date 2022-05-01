@@ -41,6 +41,8 @@ Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/pro
 
 Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
 
+Check out HerrZatacke's [Custom Camera ROM](https://github.com/HerrZatacke/custom-camera-rom)
+
 
 
 ![](/assets/Front.png)
