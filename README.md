@@ -45,6 +45,8 @@ Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](htt
 
 Check out HerrZatacke's [Custom Camera ROM](https://github.com/HerrZatacke/custom-camera-rom)
 
+Check out [Hatchman's Camera Shell models](https://github.com/hatchman/Game-Boy-Camera-Shell)
+
 
 
 ![](/assets/Front.png)
