@@ -1,1 +1,14 @@
-KiCad/*
+!.gitignore
+!README.md
+/*
+!Gameboy_Camera_Flashcart_Release.zip
+!/KiCad
+/KiCad/*
+!/KiCad/MAC-GBD-Flashcart
+/KiCad/MAC-GBD-Flashcart/*
+!/KiCad/MAC-GBD-Flashcart/fp-info-cache
+!/KiCad/MAC-GBD-Flashcart/MAC-GBD-Flashcart-cache.lib
+!/KiCad/MAC-GBD-Flashcart/MAC-GBD-Flashcart.kicad_pcb
+!/KiCad/MAC-GBD-Flashcart/MAC-GBD-Flashcart.kicad_pro
+!/KiCad/MAC-GBD-Flashcart/MAC-GBD-Flashcart.kicad_sch
+KiCad/MAC-GBD-Flashcart/fp-info-cache
