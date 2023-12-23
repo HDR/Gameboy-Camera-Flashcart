@@ -41,4 +41,5 @@ Flashing has only been tested with a [GBxCart](https://www.insidegadgets.com/pro
 
 Makes use of [djedditt's](https://github.com/djedditt/s) [gamepak footprint](https://github.com/djedditt/kicad-gamepaks)
 
+Looking for a ready to use flashcart? check out their custom flashcart, the [Insidegadget's PicNRec AIO](https://shop.insidegadgets.com/product/gameboy-camera-picnrec-aio/)
 ![](/assets/Front.png)
